@@ -1,5 +1,9 @@
 ### Hi there I am Brice  👋
 
+###A passionate software engineer currently living in Casablanca
+
+🌱 I’m currently learning Artificial intelligence at my  engineering school, "EIGSI Casablanca".
+
 <!--
 **BriceGyb/BriceGyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
