@@ -1,5 +1,4 @@
 
-![logo](https://pin.it/1wlEtsW)
 
 <h1 align="center">Hi 👋, I'm Brice Gyebre</h1>
 
