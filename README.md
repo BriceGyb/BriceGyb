@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Brice Gyebre</h1>
 
 <h3 align="center">A passionate software engineer currently living in Morroco</h3>
-<img align="right " width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=l07YdifB&id=000E63D3D958C65FF235665D1E78A35A60CB6975&thid=OIP.l07YdifBMhOitZu9YnknVAHaHa&mediaurl=https%3a%2f%2fmedia.tenor.com%2fAw2-4sShkCUAAAAd%2fcoding.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.974ed87627c13213a2b59bbd62792754%3frik%3ddWnLYFqjeB5dZg%26pid%3dImgRaw%26r%3d0&exph=640&expw=640&q=codung+gif&simid=608021873392426388&FORM=IRPRST&ck=C40A668A2DA33F4AA1DFF060698B0FF5&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0" alt="coding">
+<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
