@@ -2,16 +2,23 @@
 
 <h1 align="center">Hi 👋, I'm Brice Gyebre</h1>
 
-<h3 align="center">A passionate software engineer currently living in Morroco</h3>
-<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">
+Master’s student in Computer Science | Aspiring Data Scientist & AI Engineer
+</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+<img align="right" alt="Data Science" width="400"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **MERN , Flutter**
+- 🎓 Master’s student in **Computer Science**
+- 📊 Passionate about **Data Science, Machine Learning & Artificial Intelligence**
+- 🌱 Currently learning **Machine Learning, Deep Learning & NLP**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning, AI**
+- 🧠 Interested in **data-driven solutions and real-world AI applications**
+- 📫 How to reach me: **ghgyebrebrice@gmail.com**
 
-- 📫 How to reach me **ghgyebrebrice@gmail.com**
-
-- ⚡ Fun fact **“A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!”**
+- ⚡ Fun fact:  
+**“A son asked his father (a programmer) why the sun rises in the east and sets in the west.  
+His response? It works, don’t touch!”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
